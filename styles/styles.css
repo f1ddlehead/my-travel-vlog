@@ -1,0 +1,13 @@
+nav > ul > li {
+  display: flex;
+  margin-right: 15px;
+}
+nav li > a {
+  text-decoration: none !important;
+  justify-content: right;
+}
+#nav-bar {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
